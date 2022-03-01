@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divine examples of God's severe judgments upon Sabbath-breakers, in their unlavvful sports, collected out of several divine subjects, viz. Mr. H.B.  Mr. Beard, and the practice of piety : a fit monument for our present times, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08934</idno>
+            <idno type="STC">Wing D1720BA</idno>
+            <idno type="STC">ESTC R175964</idno>
+            <idno type="EEBO-CITATION">64551177</idno>
+            <idno type="OCLC">ocm 64551177</idno>
+            <idno type="VID">184526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184526)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divine examples of God's severe judgments upon Sabbath-breakers, in their unlavvful sports, collected out of several divine subjects, viz. Mr. H.B.  Mr. Beard, and the practice of piety : a fit monument for our present times, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. C. and sold by William Miller, at the Sign of the Gilded Acorn in St. Paul's Church-Yard, near the Little North Door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption titles.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sunday --  England --  Early works to 1800.</term>
+               <term>Sabbath --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184526:1"/>
+            <head>Divine EXAMPLES of <hi>GOD'S</hi> SEVERE JUDGMENTS UPON SABBATH-BREAKERS, In their unlavvful Sports, Collected out of ſeveral Divine Subiects, VIZ. Mr. <hi>H. B.</hi> Mr. <hi>Beard,</hi> and the Practice of Piety: A fit Monument for our preſent Times, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>depiction of a person being stoned (in accordance with the punishment meted out in Numbers 15: 36) for violating the Sabbath</figDesc>
+                  <l>Remember that thou keepe holy y<hi rend="sup">e</hi> Sabboth Day <hi rend="sup">etc</hi>
+                  </l>
+                  <l>The profane Iſralite, that durſt aſſay,</l>
+                  <l>In gathering ſticks, to breake the Sabboth day,</l>
+                  <l>Is ſtonde to death, for like Contumacy</l>
+                  <l>The Lord hath ſworne, that every Soule ſhall dye.</l>
+               </figure>
+               <figure>
+                  <figDesc>depiction of young men drowned while playing football on the Sabbath</figDesc>
+                  <p>Severall Young men playing at foote-ball on the Jce upon the LORDS-DAY are all Drownd</p>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a woman and her daughters who are burnt up for working on the Sabbath</figDesc>
+                  <p>A Woman and her two Daughters pill and dry flax on the Lords day, are all burnt</p>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a miller's house and mill which burn down because he violated the Sabbath</figDesc>
+                  <p>A Millers Houſe and Mill Bur<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> etc.</p>
+               </figure>
+            </p>
+            <div type="part">
+               <div type="section">
+                  <head>Differences of the <hi>Jewiſh</hi> from the <hi>Chr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſtian</hi> ſtate.</head>
+                  <p>The Jewiſh Sabbath was kept in remembrance of the Worlds Creation. The Chriſtian's Sabbath is kept in remembrance of the Worlds Redemption. The Jews as a Figure of Grace that they ſhould rest from ſervitude of ſin. The Chriſtians as a Figure of Glory when they ſhall reſt from occaſions of ſinning. The Jews had bodily Sacrifices of Beaſts; We Chriſtians of Prayer. They the Levitical Prieſthood of the Law; We Chriſtian Miniſtery of the Goſpel. They Temples and Synagogues; We Christian Churches. They S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>craments of Cir<g ref="char:EOLhyphen"/>cumciſion, Paſsover; We of Baptiſm and the Lords Supper.</p>
+                  <p>N<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w to keep holy a Sabbath to the Lord is to celebrate an Holy rest unto God, not only to abstain from all labour of the body, but alſo practiſing all Godly Exerciſes, as Prayer, hearing the Word, receiving the Sacraments, <hi>&amp;c.</hi>
+                  </p>
+                  <p>And to prophane this day is to labour in ſervile Works of our ordinary calling, to travel about ordinary buſineſs, to keep Fairs and Markets on this day, or to uſe ſports and recreations, or any thing elſe more than things of neceſſity.</p>
+               </div>
+               <div type="section">
+                  <head>Scriptural <hi>Examples</hi> of ſuddain <hi>Judgments</hi> for ſeveral ſins.</head>
+                  <p>When <hi>Belſhazar</hi> was Feasting with his Nobles, the Fearful hand writing was upon the wall. While <hi>Herod</hi> vanted himſelf, and the people honoured him like God, the Angel ſmote him, and he dyed of Worms. W<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ile the <hi>Philiſtines</hi> were banqueting, <hi>Sampſon</hi> pull d the Temple upon their Heads. When the men of <hi>Ziglah</hi> were Feasting and Dancing, <hi>David</hi> came upon them and ſlew them. When the <hi>Iſraelites</hi> were at their Manna and Quails, even while the meat was in their mouths, God took away their Lives. When <hi>Job</hi>'s Children were making merry one with an other, the Wind came and blew down the Houſe. While the whole World was marrying and giving in marriage, the Flood came and drowned them. While the <hi>Steward</hi> was recounting what pollicy to uſe, the <hi>Maſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er</hi> called him to account. While the <hi>Churl</hi> was muſing of his full Barns, and ſaying to his ſoul be merry, that night his ſoul was taken from him.</p>
+                  <p>
+                     <hi>Abel</hi> s blood ſuddainly cries for vengeance.</p>
+                  <p>
+                     <hi>Jeroboam</hi> was ſtricken while he ſtruck.</p>
+                  <p>
+                     <hi>Baalam</hi> was ſtopt in the way. <hi>Judas</hi> preſently hang'd himſelf. <hi>Herod, Saul, Athaliah,</hi> and <hi>Jezabel,</hi> had their offices taken from them for ſin. Remember <hi>Lot</hi>'s Wife. <hi>Haman</hi> hanging upon his own Gallows, and <hi>Achan</hi>'s ſepulchre.</p>
+                  <p>Sins against mercy bring the ſevereſt Judgments, Read <hi>Leviticus 26,</hi> from <hi>ver. 14,</hi> to <hi>40.</hi>
+                  </p>
+                  <p>
+                     <hi>Iſrael</hi> the miracle of mercy, that grew from <hi>70.</hi> ſouls in a few years to ſix hundred thouſand, the more oppreſſed the more they proſpered, like Camomile or the Palm-tree, but when they abuſed Mercy and ſlighted Sabbaths, they became the greatest Objects of Wrath. There died partly by the Sword, and partly of Famine, Eleven hundred thouſand of the poorer ſort. Two thouſand in one night were Imbowelled, ſix thouſand were burned in a Porch of the Temple, the whole City was ſackt and burnt, and ninety ſeven thouſand taken Captives. And to this day are they not the off-ſcouring of the World?</p>
+               </div>
+               <epigraph>
+                  <q>
+                     <l>If he were ſlain which on the Sabbath day.</l>
+                     <l>For need did gather ſticks: Oh! how ſhall they</l>
+                     <l>Eſcape God's wrath, which for ba<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e pelf or pleaſure,</l>
+                     <l>Profane God's Sabbaths in moſt frequent meaſure.</l>
+                  </q>
+               </epigraph>
+            </div>
+            <div type="part">
+               <head>Examples.</head>
+               <p n="1">1. A Woman near <hi>Northampton,</hi> the ſame day the Book for ſports was read, upon that Sabbath day having but three pence in her purſe, hired a Fellow to fetch a Minſtril, who coming, ſhe with others fell to Dance, and ſo continued within night, and the ſame night was got with Child, which at the Birth ſhe murthered, and be<g ref="char:EOLhyphen"/>ing detected and apprehended, ſhe before the Juſtice confeſt it, and withall told the occaſion, ſaying it was her falling to ſports on the Sabbath upon reading the Book for ſports had brought her to this end, for which unnatural fact ſhe was put to death.</p>
+               <p n="2">2. At <hi>Northampton</hi> a young man that was at firſt of a looſe kind of life, but after by the example of other good people had begun to reform his looſe life in the Obſervation of the Sab<g ref="char:EOLhyphen"/>bath, but hearing the Book of ſports he fell again to prophane the Sabbath: at an Aſſizes there when the Judges were in the Church being taken as he was picking a Pocket, he confeſt that upon the publiſhing the ſaid Book of ſports he was encouraged to wickedneſs, and for this ſuffered death.</p>
+               <p n="3">3. A Maid at <hi>Enfield</hi> near <hi>London</hi> hearing of the Liberty given by this Book, ſaid, ſhe would dance, and on the Sab<g ref="char:EOLhyphen"/>bath day danced ſo long that within two or three days ſhe dyed.</p>
+               <p n="4">4. Upon <hi>May</hi> day, being the Lords day, a Maid of the Mi<g ref="char:EOLhyphen"/>niſter of <hi>Cripple Gate</hi> Pariſh <hi>London,</hi> was Married to a Widdow<g ref="char:EOLhyphen"/>er having three Children, and upon this day they kept their Marriage Feaſt in the Church-houſe joyning to the Church, and ſpent all the Afternoon in Dancing; but in one Week after, the Plague began in that Pariſh in the new Married mans Houſe, and within one Month the Man, his Wife, and two Children dyed; thus the Plague began in that Pariſh.</p>
+               <p n="5">5. In the ſame Month a Miniſter Rector of a Church in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> upon the <hi>Saturday</hi> would go with two Neighbours, boon Companions, to be Jovial the next day; they conditioned he ſhould beſtow a Sermon upon them; they on the Lords day ſpent the Forenoon idly, and in the Afternoon this Miniſter with his Neighbours viſited a <hi>London</hi> Miniſter that had a Bene<g ref="char:EOLhyphen"/>fice there, for whom he Preacht. Sermon being ended they are invited to the Miniſters Houſe to a Bottle of Sack; they drank ſo long that the two Neighbours tongues began to fail them. That night their Miniſter could not ſleep and was ſtruck with a ſuddain coldneſs, and with much ado being returned to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> he dyed before the next Lords day.</p>
+               <p n="6">6. On <hi>Jan.</hi> 25. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>34. being the Lords day in the time of the great Froſt, fourteen young men preſuming to play at Foot-ball upon the Ice on the River <hi>Trent</hi> near to <hi>Gainsborough</hi> were all drowned.</p>
+               <p n="7">7. At <hi>Dover</hi> the ſame Lord's day the Book was read, one in St. <hi>Jame</hi> s Pariſh that played on a Kit, with it called together divers, and that very day was ſtruck by Divine hand, and with<g ref="char:EOLhyphen"/>in two days dyed.</p>
+               <p n="8">8. At <hi>T<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urlow</hi> in <hi>Suffolk,</hi> one made a Feaſt on the Sabbath day to his Friends for joy of the publiſhing this Book of ſports on the Lord's day, and the next day was preſt to death by the ſuddain fall of a ſtack of Faggots.</p>
+               <p n="9">9. At <hi>Hellingsby</hi> in <hi>Suſſex</hi> this Book being read on the Lord's day, the next day an honeſt man, one <hi>Tomkins</hi> being on his way, his Neighbour ſcoffingly a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kt him if he would dance with him the next Sunday, to whom <hi>Tomkins</hi> anſwered, take heed thou be not dancing in Hell before that day, or before it be long and by the next Week this ſcoffer and two of his Family dyed.</p>
+               <p n="10">10. <hi>Febru.</hi> 9. 1634. being upon the Lord's day, an Apotheca<g ref="char:EOLhyphen"/>ries man in <hi>Lime-ſtreet London,</hi> w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th another Companion rid to <hi>Barnet</hi> to make merry, and returning home drunk, near High-Gate met a Tinker, to whom offering abu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Tinker ſtrikes his Hor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, the other bids run him through, which he did with his Rapier, the Tinker fell down dead, and both were appre<g ref="char:EOLhyphen"/>hended and ſent to <hi>Newgate.</hi>
+               </p>
+               <p n="11">11. At <hi>Thornton</hi> near <hi>W<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtcheſter</hi> at the publiſhing this Book, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey prepared for a Summer-ale upon the Sabbath day, and a luſty young Wench was choſen Purveyor for Cakes, and going on the <hi>Saturday</hi> to the Mill paſſing by a Hedge in the way ſhe was immediately ſtruck and fell into the Ditch, where ſhe was found dead; there lay all the Lord's day, the Coroner being ſent for on the <hi>Munday</hi> ſhe was carried to her Grave. And the effect wrought ſo upon the people, that no Summer-Ale was kept; but the May-pole which before they had ſet up they took down.</p>
+               <p n="12">12. In <hi>Yorkeſhire</hi> at a Wake on the Lord's day, in <hi>Otley</hi> Pariſh at <hi>Baildon,</hi> two men ſitting at drink in the Night fell out, and being parted, the one a little after finding his fellow ſitting by the fire with his back towards him, comes behind him with a Hatchet, Chines him down the back, ſo as his Bowels fell out: the Murtherer being purſued leapt into a River and drowned h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſelf.</p>
+               <p n="13">13. One <hi>Wright</hi> at <hi>Kingſton</hi> that re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyced much at the ſuſ<g ref="char:EOLhyphen"/>pending of his Miniſter, for not reading the Book of ſports, ſay<g ref="char:EOLhyphen"/>ing he hoped ſhortly to ſee them all ſo ſerved: was in a day or two after ſtruck with a dead Palſie all over the one ſide, and with Blindneſs and Dumbneſs, that he could neither go, nor ſee, nor ſpeak and ſo lay a Fortnight and then dyed.</p>
+               <p n="14">14. In <hi>Moor-fields</hi> near <hi>London,</hi> divers Youths playing at Cat on the Sabbath day, two of them fell out, and the one hitting the other under the Ear with his Cat he fell down for dead in the place, the other was ſent to Priſon; but the dead after a time recovering, the Priſoner was releaſt, which may be a warning to Youths prophaneneſs.</p>
+               <p n="15">15. <hi>April</hi> the 18. 1635. one travelling with three other from <hi>London</hi> to <hi>Mayden Head</hi> on the <hi>Saturday,</hi> the three ſpent the Sab<g ref="char:EOLhyphen"/>bath there, but he would travel on his way contrary to the La<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies direction whom he ſerved; he rode to <hi>Henley</hi> in the Morn<g ref="char:EOLhyphen"/>ing and there heard the Sermon and fell to Travel in the After<g ref="char:EOLhyphen"/>noon; but in the way leading his Horſe gently down a plain diſ<g ref="char:EOLhyphen"/>cent and even way, his Horſe ſuddainly fell and broke both his fore leggs; the man was amazed at the immediate hand of God as he after confeſt to his three fellow Travellers that overtook him, and ſaid all the good Sermons that ever he had heard did never ſo work upon his Conſcience as this thing did, and that example ſhould for ever be a warning to him.</p>
+               <p n="16">16. In 1634 one <hi>Edward A<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rideth,</hi> a Gentleman, having been pained in his feet, and being upon his recovery, where<g ref="char:EOLhyphen"/>upon one ſaid to him he was glad to ſee him ſo nimble; <hi>Ameri<g ref="char:EOLhyphen"/>deth</hi> replied, that he doubted not but to dance about the May<g ref="char:EOLhyphen"/>pole the next Sabbath day: but before he moved ou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of that place he was ſuddainly ſtruck with a feebleneſs and dizyneſs in his head, that be<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng carried to an Houſe he dyed before the Lord's day came.</p>
+               <p n="17">17. In <hi>Gloc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſhire</hi> one being very forward to advance a ſummer meeting wherein his Son was to be ſtickler, went him<g ref="char:EOLhyphen"/>ſelf to ſee it and there beholding it he fell down dead and never ſaw an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er Sabbath.</p>
+               <p n="18">18. A Miller at <hi>Churchdown,</hi> near <hi>Glocester,</hi> would needs (contrary to the admonitions both of his Miniſter in private, and generally in publick, yea and that very day, and of other Chriſtian friends) keep a ſolemn Whitſon ale, for which he had made large prepa<g ref="char:EOLhyphen"/>ration and proviſion even of threeſcore dozen of Cheeſe-cakes with other things proportionable; in the Church houſe half a mile from his Mill, his Muſical Inſtruments were ſet forth on the ſide of t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Church houſe, where the Mini<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er and people were to paſs to the Church to Evening Prayer, when that and Sermon were ended, the Drum is ſtruck up, the Peeces diſcharged, the Muſitians play, and the rout fall a dancing, till the Evening; where they all with the Miller reſort to his Mill; where that Evening before they had ſupt, about nine of the Clock on Whitſun<g ref="char:EOLunhyphen"/>day, a fire took ſuddainly in his Houſe over their heads, and was ſo brief and quick, that it burnt down his Houſe and Mill, and devour<g ref="char:EOLunhyphen"/>ed withall the greateſt of all his other Proviſion and Houſholdſtuff. This is confirmed by ſundry good Teſtimonies.</p>
+               <p n="19">19. At <hi>Baunton</hi> in <hi>Dorcetſhire</hi> ſome being at Bowls on the Lord's day, one flinging his Bowl at his Fellow Bowler, hit him on the Fare, ſo as the blood iſſued forth at the other Eare, whereof he ſhortly died. The Murtherer fled.</p>
+               <p n="20">20. One good-man <hi>Paul</hi> near <hi>Stoke</hi> in <hi>Dorcetſhire,</hi> rejoycing much at the erecting of a Summer-pole, at a Pariſh called <hi>Simsbury</hi> in <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orcetſhire,</hi> and ſaying before one of his Neighbours, he would go ſee it, though he went naked through a Qu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckſet Hedg: which is a common Proverb they uſe: Going w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Wood in his Arms to caſt into the Bonfire, where he lived, and uſing theſe words: <hi>Heaven and Earth are full of thy glory, O Lord:</hi> he was preſently ſmitten by the ſtroke of God, and within two or three daies died, and his Wife with him. Theſe two laſt exam<g ref="char:EOLunhyphen"/>ples are teſtified by a Miniſter in his Letter to a Brother Miniſter.</p>
+               <p n="21">21. In the edge of <hi>Eſſex</hi> near <hi>Brinkley,</hi> two Fellows working in a Chalk pit, the one was boaſting to his fellow, how he had angred his Miſtreſs with ſtaying ſo late at their Sports t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e laſt Sunday night, but he ſaid he would anger her wor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the next Sunday. He had no ſooner ſaid this, but ſuddainly the Earth fell down upon him, and ſlew him out right, with the fall whereof his fellows limb was broken, who had been alſo Partner with him in his jollity on the Lord's day, eſcaping with his life, that he might tell the truth, that God might be glorified, and that by this warning he might repent of his ſin, and reform ſuch his prophaneneſs, and remain a Filler of Salt, to ſeaſon others with fear by his Example.</p>
+               <p n="22">22. The laſt Spring a Miller hard by <hi>W<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>otten</hi> in <hi>Warwickſhire,</hi> went on the Lord's day to a Wake, whence returning home again, the ſame day at night found his Mill and Houſe and all on a fire; this was teſtified by a Miniſter (in a reply to another Miniſter) who was an Eye witneſs.</p>
+               <p n="23">23. At <hi>Woolston</hi> in the ſame Country, where the ſaid Miniſters Father had been Miniſter forty years, and by God's bleſſing upon his Labours, had reformed things very well; yet upon the publication of this Book in print, many of the Inhabitants the Spring following, were im<g ref="char:EOLhyphen"/>boldned to ſet up May poles, Morrice Dance, and a Whitſon ale, con<g ref="char:EOLhyphen"/>tinuing their rude revelling a Week together, with many affronts to their antient and reverend Paſtour: but it pleaſed God, that not long after, a ſpark from a Smith's ſhop, caught in that room where the Ale was brewed, and though means were ready at hand, yet it could not be quenched, but ſet the Houſe on fire, and preſently flew to the Barn, in which their diſorder was, and burnt the ſame with thirteen Dwelling Houſes more, moſt of whoſe Inhabitants were Actors or Abettors in the ſame: This is teſtified by many.</p>
+               <p n="24">24. In the year of our Lord 1633. <hi>Octob.</hi> 26. after the Book of ſports was known to be publiſhed in print, <hi>David Price,</hi> a Welſhman, ſervant to one <hi>Thomas Hill,</hi> a known Graſier of that Country, coming to <hi>Banbu<g ref="char:EOLhyphen"/>ry</hi> with his Drove on <hi>Saturday</hi> night, declared his purpoſe of driving them the next day early in the Morning, being the Sabbath or Lord's day: his Hoſt where he lodged, diſſwaded him, becauſe it was the Sab<g ref="char:EOLhyphen"/>bath day, and told him that he would certainly be ſtopped, and made to pay for it according to the Statute. He anſwered that he would drive them, and let me ſee (ſaith he) who will hinder me. So in the Morn<g ref="char:EOLhyphen"/>ing, two other accompanying him, he went to fetch the Cattle out of the Ground, one that knew him, met him at the Towns end (not yet out of the Town) and adm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im, ſaying, What, <hi>David,</hi> to day; he made no anſwer, but went onward, and though for any thing that ap<g ref="char:EOLhyphen"/>peared to any other, or that himſelf complained of, he was then <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n good health, as ever he was, yet within l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttle more than a ſtones caſt off the Town, he fell down dead ſuddainly, and was buried in <hi>Banbury</hi> Church<g ref="char:EOLhyphen"/>yard the next day after; None could diſcern any ſenſible or evident cauſe of ſo ſuddain a ſurprizal, and himſelf gave no ſign of any pains, weakneſs, or illneſs, till the inſtant time he gave up the ghoſt.</p>
+               <p n="25">25. At <hi>Wicks,</hi> a Town betwixt <hi>Colchester</hi> and <hi>Harwich</hi> in <hi>Eſſex,</hi> upon Whitſunday laſt in the Afternoon, two Fellows meeting at the football, the one killed the other.</p>
+               <p n="26">26. At <hi>Oxford</hi> on the Sabbath day, one <hi>Bally Hawks</hi> a But<g ref="char:EOLhyphen"/>cher, would needs go into his field with an hatchet and ſho<g ref="char:EOLhyphen"/>vel to mend his ditch: his Wife diſſwaded him what ſhe could, being the Sabbath day, but he ſaid he would go make an end of his work, which he did, for ſuddainly he was ſtruck dead in his ditch, and ſo made an end of his work, and his life together.</p>
+               <p n="27">27. Alſo at <hi>Oxford</hi> a Carpenter undertaking to mend a Stage in St. <hi>John</hi>'s College on the Saturday night, for the finiſhing whereof he muſt of neceſſity ſpend ſome part of the Lord's day morning, that the Stage might be ready againſt the Munday following, he that night fell backward from the Stage, being not far from the ground, and brake his neck, and ſo ended his life in a fearful Tragedy.</p>
+               <p n="28">28. A young man near <hi>Bow,</hi> going to ſwim in the River on <hi>Eſſex</hi> ſide, on the Lord's day in the Afternoon, was drowned.</p>
+               <p n="29">29. Two boys of St. <hi>Albans,</hi> going to <hi>Verulam</hi>'s Pounds, a mile off to ſwim on the Lord's day, <hi>July</hi> 12. one of them was drowned, and the other hardly eſcaped.</p>
+               <p n="30">30. At <hi>Ramſey</hi> in <hi>Suffolk,</hi> a tall man on the Lord's day go<g ref="char:EOLhyphen"/>ing with others to ſwim, and being advertiſed and warned of a hole in the water, he ſware that there was no place there could drown him, but by and by on a ſuddain he was miſſing, being now under water and ſo drowned.</p>
+               <p n="31">3<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. On <hi>Septemb.</hi> 13. 1635. being the Lord's day, two young men of the Pariſh of St. <hi>Dunstans</hi> in the Weſt, <hi>London,</hi> going to ſwim, were both drowned.</p>
+               <p n="32">32. At <hi>Lemster,</hi> one Maſter <hi>Powle, January</hi> 1634. on the Lord's day ſerving a Writ of <hi>ſub poena</hi> (and that of purpoſe on that day as is credibly reported) upon one Mr. <hi>Shuit,</hi> a Gentleman, this he did in the Church yard, ſo ſoon as they were come out of the Church: Mr. <hi>Shuit</hi> thereupon told him, I thought you had been an holier man than ſo, to do this upon this day; he replied, I hope I am never a whit the more diſhoneſt, or leſs holy for that; having ſpoken this, he ſuddainly fell down dead, and ſpake not a word more, his Wife ſeeing this was ſuddainly ſtruck with ſickneſs.</p>
+               <p n="33">33. A Fellow in <hi>Summerſetſhire</hi> being to make a Tent upon the Lord's day, for a Fair that was to be kept upon the Mun<g ref="char:EOLhyphen"/>day following, ſaid to one on the Saturday, that they would rear it to morrow, ſo the next day which was the Lord's day, being drunk, he d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed the ſame day roaring.</p>
+               <p n="34">34. In <hi>June</hi> 1635. on the Lord s day, the Tapſter and Chamberlain of the Queens head in <hi>Southwark,</hi> rid into <hi>Kent</hi> to be merry: and having drunk liberally, riding home<g ref="char:EOLhyphen"/>wards, the one of them fell from his Horſe and broke his neck.</p>
+               <p n="35">35. Alſo in <hi>June</hi> 1635. and as ſome report the very ſame Lords day, in <hi>Southwark,</hi> at the Red Lion, near St. <hi>George</hi>'s Church in the Afternoon, a man with another ſate drinking ſo long, that the other about ſix of the Clock departing, fell a ſleep ſo, that he never awaked again.</p>
+               <div type="section">
+                  <head>Theſe Examples were Collected from <hi>Beard</hi>'s Theater of God's Judgments, and the Practiſe of Piety.</head>
+                  <p n="36">36. A Noble man in <hi>France,</hi> that uſed to go a hunting on the Sabbath day; his Wife brought forth a Child with a Dogs head.</p>
+                  <p n="37">37. At <hi>Kinſtat</hi> in <hi>France,</hi> a covetous Woman uſed on the Sabbath day to dry and pill Flax, and would not be warned although her Flax took fire two ſeveral Lord's days, but on the third Sabbath, ſhe and her two Children were burnt to death.</p>
+                  <p n="38">38. Some in <hi>France</hi> at their Husbandry upon the Sabbath, have been ſtruck with Thunder, ſome had their Bodies and Bones burnt with viſible fire, and conſumed to aſhes; Scaffold at Playes on the Sabbath day have fallen, and many have been wounded; ſome killed out right</p>
+                  <p n="39">39. In 1583. at <hi>Paris Garden,</hi> upon the Sabbath day, a great Company were gathered to behold a ſort of Bear baiting, the Scaffold ſuddainly brake, and Eight were ſlain out-right; and many more wounded.</p>
+                  <p n="40">40. A Husbandman grinding Corn upon the Lord's day, had his Meal burnt to Aſhes.</p>
+                  <p n="41">41. Another carrying Corn on this day, had his Barn and all his Corn therein burnt with fire from Heaven.</p>
+                  <p n="42">42. <hi>Stratford</hi> upon <hi>Avon,</hi> was twice on the ſame day twelve month (being the Lord's day) almoſt conſumed with fire chiefly for prophaning that day.</p>
+                  <p n="43">43. The Inhabitants of <hi>Tiverton</hi> in <hi>Devonſhire,</hi> were great prophaners of this day, of which their godly Miniſter did oft admoniſh them; and not long after his death, on the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hird of <hi>April</hi> 1598. By a ſuddain fire, the whole Town was almoſt conſumed, to the number of 400. Houſes, and 50. Perſons in the Flames.</p>
+                  <p n="44">44. And once ſince in 1612. the ſame Town was almoſt con<g ref="char:EOLhyphen"/>ſumed again; a ſure token of God's anger.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>Royal King <hi>Solomon</hi> hath a true ſaying, that Judgments are prepared for ſcorners, <hi>Prov.</hi> 19.29. And in this ſhort view you may behold Judgments executed.</p>
+               <p>The Lord hath made his day known by his Judgments, <hi>Numb.</hi> 15. 32. <hi>&amp;c.</hi> To teach the Inhabitants of the World righteouſneſs, <hi>Iſa.</hi> 26.9.</p>
+               <p>Theſe Tragical ſpectacles of divine Justice proclame the propha<g ref="char:EOLunhyphen"/>nation of the Lord's most ſacred day, a crying ſin. Which hath been confirmed by the whole State in Parliament in two famous Sta<g ref="char:EOLunhyphen"/>tutes in the First of <hi>Carol.</hi> and in the Third of <hi>Carol.</hi> and two An<g ref="char:EOLhyphen"/>tient Acts in <hi>Hen.</hi> and <hi>Edw</hi> 6.</p>
+               <p>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Homilies, Common-prayer-book, Canons, Articles, and In<g ref="char:EOLhyphen"/>junctions conclude the ſame.</p>
+               <p>Our late Sovereigns of bleſſed memory King <hi>James</hi> and King <hi>Charles</hi> in the first year of both their Reigns in the ſeveral books of Common-prayer, and order for the publ ck Feasts ſet out by their Royal Authorities for the averſion and ceaſing of thoſe dreadful Plagues which then ſwallowed up many thouſands, Confeſs that among other ſins, the prophanation of the Sabbath, and not keeping holy the Lord's day, was one chief cauſe why theſe two great Plagues brake in upon us.</p>
+               <p>God grant that theſe puniſhments of ſome may be a warning to us all, and as <hi>Cyprian</hi> that Antient Father well ſaith, he is over audacious, who ſtrives to paſs over there where he hath ſeen another to have faln; he is outragiouſly head-ſtrong who is not ſtruck with fear, when he beho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds another periſh in that courſe which he is run<g ref="char:EOLhyphen"/>ning; he loves his own ſafety, who takes warning by the death of others; and he alone is a prudent man who is made wiſe by the Ruins of other men.</p>
+               <p>May theſe Judgments on ſome, become Remed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es to cure all, who are ſick of the ſelf ſame ſin. Which is the end of the Pub<g ref="char:EOLhyphen"/>liſher.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. C.</hi> and ſold by <hi>William Miller,</hi> at the Sign of the <hi>Gilded Acorn</hi> in S. <hi>Paul</hi>'s Church-Yard, near the Little North Door, 1671.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
